@@ -1,0 +1,15 @@
+{
+  "name": "template-yarn-react-ts-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:captainkovalsky/template-yarn-react-ts-lib.git",
+  "author": "Viktor Dzundza <vdzundza@protonmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+
+  }
+}
